@@ -110,4 +110,4 @@ analisador-clima/
 
 ---
 
-Desenvolvido com ❤️ por Leonardo (https://github.com/leoouu)
+Desenvolvido por Leonardo (https://github.com/leoouu)
